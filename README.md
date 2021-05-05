@@ -4,7 +4,9 @@ Contributions to the 7th DHd-Conference "Spielräume - Digital Humanities zwisch
 
 Conference-Webite: https://www.dhd2020.dig-hum.de
 
-Book of Abstracts: https://github.com/NinaSeemann/DHd2020-BoA
+Book of Abstracts: https://github.com/NinaSeemann/DHd2020-BoA / https://doi.org/10.5281/zenodo.3666690
+
+
 
 Please be aware that the texts are under the standard copyright of the authors, if not stated explicitly otherwise.
 
