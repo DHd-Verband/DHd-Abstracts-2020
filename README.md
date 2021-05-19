@@ -40,6 +40,7 @@ All the pre-processing scripts as well as the scripts for the automatic upload a
 - publication_type: type of publication on zenodo
 - title: title of contribution
 - upload_type: type of upload
+- concept_doi: persistent identifier of all versions of a publication (points to the earliest version)
 - files: files that are part of an individual publication
 - notes: generic note of editorial work
 - references: link to the original book of abstracts
