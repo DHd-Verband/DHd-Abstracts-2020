@@ -58,3 +58,4 @@ Scripts for the automatic upload and publication on Zenodo of all individual con
 - DHd2017: https://github.com/DHd-Verband/DHd-Abstracts-2017
 - DHd2018: https://github.com/DHd-Verband/DHd-Abstracts-2018
 - DHd2019: https://github.com/DHd-Verband/DHd-Abstracts-2019
+- DHd2022: https://github.com/DHd-Verband/DHd-Abstracts-2022
