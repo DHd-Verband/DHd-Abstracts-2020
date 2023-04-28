@@ -18,10 +18,9 @@ This repository contains
 
 All contributions are published on zenodo: https://zenodo.org/communities/dhd/?page=1&size=20
 
-All the pre-processing scripts of all individual contributions will be available on GitHub soon.
-
-Scripts for the automatic upload and publication on Zenodo of all individual contributions: https://github.com/cceh/zenodup
-Scripts for the creation of individual PDF-files: https://github.com/PatrickHelling/DHd_BoA-separated
+- Scripts for the creation of metadata for the abstracts: https://github.com/reborg789/zenodup
+- Scripts for the creation of individual PDF-files: https://github.com/PatrickHelling/DHd_BoA-separated
+- Scripts for the automatic upload and publication on Zenodo of all individual contributions: https://github.com/cceh/zenodup 
 
 # Documentation package_DHd2020.csv
 
